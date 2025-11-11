@@ -21,7 +21,7 @@ export default function Footer() {
                 <span>
                   이메일:&nbsp;
                   <a
-                    href="mailto:info@cm-mix.com"
+                    href="mailto:contact@cidermics.com"
                     className="hover:text-primary transition-colors break-all"
                   >
                     contact@cidermics.com
