@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
         {/* Company Name */}
         <div className="min-w-0">
-          <h3 className="text-lg font-bold text-primary mb-7">cm-mix</h3>
+          <h3 className="text-lg font-bold text-primary mb-7">CM MIX</h3>
         </div>
         <div className="flex flex-wrap gap-x-36 gap-y-8">
           {/* Contact Info */}
@@ -17,7 +17,7 @@ export default function Footer() {
               <p className="text-sm text-gray-300 flex items-center gap-2">
                 <span>전화: 02-2088-5754</span>
               </p>
-              <p className="text-sm text-gray-300 flex items-center gap-2">
+              {/* <p className="text-sm text-gray-300 flex items-center gap-2">
                 <span>
                   이메일:&nbsp;
                   <a
@@ -27,7 +27,7 @@ export default function Footer() {
                     contact@cidermics.com
                   </a>
                 </span>
-              </p>
+              </p> */}
             </div>
           </div>
 
@@ -35,7 +35,7 @@ export default function Footer() {
           <div className="min-w-0">
             <h4 className="text-sm font-semibold mb-4 text-secondary">주소</h4>
             <address className="text-sm text-gray-300 not-italic break-keep">
-              서울특별시 강남구 테헤란로 33길 13-3 (EMC타워) 7층
+              서울특별시 강남구 테헤란로 33길 13-3 (EMC타워) 3층
               <br />
               13-3, Teheran-ro 33-gil, Gangnam-gu, Seoul (06141)
             </address>
