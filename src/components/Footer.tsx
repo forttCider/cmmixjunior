@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
         {/* Company Name */}
         <div className="min-w-0">
-          <h3 className="text-lg font-bold text-primary mb-7">CM MIX</h3>
+          <h3 className="text-lg font-bold text-primary mb-7">CM MIX JUNIOR</h3>
         </div>
         <div className="flex flex-wrap gap-x-36 gap-y-8">
           {/* Contact Info */}
@@ -63,7 +63,7 @@ export default function Footer() {
       </div>
       <div className="w-full border-t border-gray-600 py-8">
         <p className="mx-auto max-w-7xl text-sm text-gray-400 wrap-break-words px-4 sm:px-6 lg:px-8">
-          Copyright &copy; 2025 CM-MIX. All rights reserved.
+          Copyright &copy; 2025 CM-MIX-JUNIOR. All rights reserved.
         </p>
       </div>
     </footer>
